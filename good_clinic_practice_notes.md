@@ -16,9 +16,14 @@
 
 ## Investigator's Responsibilities and GCP
 
+### Whar happens to trial documents after the study is completed?
+- Trial documents are stored in compliance with institutional policy. relevant privacy legislation and regulatory requirements.
+
 ### Which of the following statements does not appear in ICH GCP 4.2 entitled "Investigator: Adequate Resources"
 - The investigator should have available an adequate number of qualified staff who could replace current research staff should the trial run longer than expected.
 
+### According to ICH GCP 4.1.1, the investigator(s) should meet all the qualifications specified by the applicable regulatory requirement(s) and should provide evidence of such qualifications through up-to-date curriculum vitae and/or other relevant documentation requested by the sponsor, the Research Ethics Board (REB) and/or the regulatory authority(ies). In addition, ICH GCP requires that the investigator(s) should be qualified by:
+- Education, training and experience
 
 ### According to ICH GCP 4.12, if a research study is prematurely terminated or suspended for any reason, the investigator should do which of the following as well as notifying REB and applicable regulatory authorities:
 - Promptly inform the research participants of the study termination or suspension and assure appropriate therapy and follow-up for the research participants.
@@ -44,6 +49,8 @@
 
 
 ### According to ICH GCP 4.1, what activity should the investigator/institution permit the sponsor to undertake?
+- Monitoring and Auditing
 
 ### According to ICH GCP 3.3.7, if an amendment to the protocol is necessary in order to eliminate an immediate hazard to the safety of research subjects in a study, it:
 - Could be implemented before REB review and approval
+
