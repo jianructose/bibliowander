@@ -58,6 +58,9 @@
 
 ## Managing Investigational (Drug) Products According to GCP Requirements
 
+### For the benefit of the sponsor, where should the final information about the dispensing of an investigational product be recorded?
+- Case report form
+
 ### According to ICH GCP, the investigator and/or designee is not required to:
 - Give the participant a diary to help with compliance
 
@@ -74,6 +77,11 @@
 ### Which of the following is a critical component of drug accountability?
 - Drug shipping records
 
+### Which of the following is an important component of drug accountability?
+- Drug shipping and disposition records
+
+### When may a sponsor ship investigational product to a Canadian clnical site?
+- After the No Objection Letter is received by the sponsor
 
 
 
