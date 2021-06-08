@@ -30,3 +30,14 @@
 
 ### A clnical research nurse records the blood pressure of a female research participant on a sticky note, transcribes it into her clinical chart and then notes it in her Case Report Form (CRF). The participant is so interested in her own information that she also records her blood pressure in her diary. According to ICH GCP 1.52, which item would NOT be considered a source document in the preceding scenario?
 - CRF
+
+
+### It is important for all members of the research study team to be trained in:
+- Health Canada Food and Drug Regulations (where applicable) and US FDA Regulations and ICH GCP and the Tri-Council Policy Statement and Privacy Legislation and institutional SOPs.
+
+### In a clinical trail, who can be responsible for all trial-related medical (or dental) decisions?
+- A qualified dentist who is an investigator or sub-investigator
+
+### According to ICH GCP 4.6.1, responsibility for investigational products accountability at the trial sites rests with the:
+- Investigator/Institution
+
