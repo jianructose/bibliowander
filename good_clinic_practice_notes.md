@@ -15,6 +15,7 @@
 - Sponsor-investigator
 
 ## Investigator's Responsibilities and GCP
+
 ### Which of the following statements does not appear in ICH GCP 4.2 entitled "Investigator: Adequate Resources"
 - The investigator should have available an adequate number of qualified staff who could replace current research staff should the trial run longer than expected.
 
@@ -41,3 +42,8 @@
 ### According to ICH GCP 4.6.1, responsibility for investigational products accountability at the trial sites rests with the:
 - Investigator/Institution
 
+
+### According to ICH GCP 4.1, what activity should the investigator/institution permit the sponsor to undertake?
+
+### According to ICH GCP 3.3.7, if an amendment to the protocol is necessary in order to eliminate an immediate hazard to the safety of research subjects in a study, it:
+- Could be implemented before REB review and approval
