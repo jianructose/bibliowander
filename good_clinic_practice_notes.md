@@ -15,7 +15,18 @@
 - Sponsor-investigator
 
 ## Investigator's Responsibilities and GCP
-1. Which of the following statements does not appear in ICH GCP 4.2 entitled "Investigator: Adequate Resources"
+### Which of the following statements does not appear in ICH GCP 4.2 entitled "Investigator: Adequate Resources"
+- The investigator should have available an adequate number of qualified staff who could replace current research staff should the trial run longer than expected.
 
 
-2. 
+### According to ICH GCP 4.12, if a research study is prematurely terminated or suspended for any reason, the investigator should do which of the following as well as notifying REB and applicable regulatory authorities:
+- Promptly inform the research participants of the study termination or suspension and assure appropriate therapy and follow-up for the research participants.
+
+### Which of the following is NOT part of a protocol?
+- budget
+
+### According to ICH GCP 3.3.7, if an amendment to the protocol is necessary in order to eliminate an immediate hazard to the safety of research subjects in astudy, it:
+- Could be implemented before REB review and approval.
+
+### A clnical research nurse records the blood pressure of a female research participant on a sticky note, transcribes it into her clinical chart and then notes it in her Case Report Form (CRF). The participant is so interested in her own information that she also records her blood pressure in her diary. According to ICH GCP 1.52, which item would NOT be considered a source document in the preceding scenario?
+- CRF
