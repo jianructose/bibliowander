@@ -54,3 +54,28 @@
 ### According to ICH GCP 3.3.7, if an amendment to the protocol is necessary in order to eliminate an immediate hazard to the safety of research subjects in a study, it:
 - Could be implemented before REB review and approval
 
+
+
+## Managing Investigational (Drug) Products According to GCP Requirements
+
+### According to ICH GCP, the investigator and/or designee is not required to:
+- Give the participant a diary to help with compliance
+
+### Where are storage requirements for the investigational product usually found?
+- In the study protocol
+
+### Where could the information about the use if investigational product be recorded?
+- all of the above
+
+
+### Who has the ultimate responsibility for the administration/dispensation an investigational product at the clinical site?
+- Qualified Investigator/ Principal investigator
+
+### Which of the following is a critical component of drug accountability?
+- Drug shipping records
+
+
+
+
+
+
