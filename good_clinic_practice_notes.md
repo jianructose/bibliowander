@@ -103,11 +103,12 @@
 - Fax the consent form to the legally authorized representative and then wait for her to return to discuss options with her. After she has had the opportunity to speak to the investigator and time to think about the best choice for her husband, she can sign and return the informed consent form if she wants to enrol him in the study.
 
 ### The purpose of informed consent is to:
-- 
+- Protect the research participants.
 
 
 ### Which of the following statements in a consent form is an example of exculpatory language?
-
+- You must provide blood samples that will be kept in a "bank" for future research. Once you have provided these blood samples, you give up your rights to benefit from commercial development.
 
 
 ### A representative from the sponsor has arrived for the first monitoring visit. Upon reviewing the consent form she notes that under access to records the consent states the following ”The study doctor and members of the research team will see health and study records that identify you by name. Other people may need to look at health and study records that identify you by name. These people might include: the Research Ethics Board, Health Canada and/or the Food and Drug Administration (if applicable).” This means:
+- The sponsor representative may look at records without violating confidentiality that do not identify participants by name.
