@@ -112,3 +112,25 @@
 
 ### 4.8 A representative from the sponsor has arrived for the first monitoring visit. Upon reviewing the consent form she notes that under access to records the consent states the following ”The study doctor and members of the research team will see health and study records that identify you by name. Other people may need to look at health and study records that identify you by name. These people might include: the Research Ethics Board, Health Canada and/or the Food and Drug Administration (if applicable).” This means:
 - The sponsor representative may look at records without violating confidentiality that do not identify participants by name.
+
+### 4.9 The informed consent document has been revised to include an EKG done at visit 5 of a study which has a total of 10 visits. The new revised consent has been approved by the Research Ethics Board (REB). This consent must be signed by:
+- 	All new subjects and active subjects who have not reached visit 5
+
+
+## 5. Detection, Evaluation, and Reporting of Adverse, and Serious Adverse Events
+
+### 5.1 Participant 311 has had elevated white blood cell (WBC) counts for the past 2 study visits, with no clinical signs or symptoms. "Increased WBC count" is not listed in the Investigator's Brochure (IB) as an adverse event. The investigator should:
+- Report the elevated WBC as an unexpected adverse effect
+
+### 5.2 When evaluating the causality of an adverse event which of the following should be a consideration?
+- The timing of the event in relation to administration of the investigational agent
+
+### 5.3 A participant has just completed his study visit and slips on a puddle of water on the floor when leaving the clinic. The Principal Investigator sees him and notes he has a sprained wrist as a result of the fall. He is given instructions to wrap it and ice for 24-48 hours. What is the appropriate action?
+- Report the sprained wrist as an adverse event.
+
+
+### 5.4 A participant reports at the baseline history that he has a history of asthma. Part way through the study he reports that he has recently started taking medication for worsening asthma symptoms. Should this be captured as an Adverse Event?
+- Yes, it does require capturing/recording as his asthma has exacerbated/ worsened.
+
+### 5.5 While participating in a research study, a participant is involved in a motor vehicle accident. The participant sustains a broken leg and mild concussion. Which of the following best describes what would be required to be reported as an adverse event?
+- The adverse event reported would be a broken leg and a mild concussion.
