@@ -134,3 +134,49 @@
 
 ### 5.5 While participating in a research study, a participant is involved in a motor vehicle accident. The participant sustains a broken leg and mild concussion. Which of the following best describes what would be required to be reported as an adverse event?
 - The adverse event reported would be a broken leg and a mild concussion.
+
+
+### 5.6 When evaluating the relationship of an adverse event to an investigational product (causality) which of the following would not be a consideration?
+- Whether or not the adverse event qualifies as a serious adverse event.
+
+
+### 5.7 A participant is seen in the clinic with bleeding gums while participating in a Phase III study of a blood thinning agent. The dose of the medication is reduced and the bleeding resolves. Which of the following is the best option for reporting this occurrence?
+- Report this as an adverse event of "bleeding gums."
+
+## 6. Administrative Documents
+
+### 6.1 Which of the following best describes Health Canada's requirement for clinical study file retention?
+- Minimum of 25 years after creation of the record
+
+### 6.2 When can protocol deviations occur?
+- During the time where the study is being conducted
+
+### 6.3 A clinical trial protocol is the document that is most referenced during a clinical trial as it’s a predefined plan of how the research will be carried out. Section 6 of GCP outlines various sections that should be detailed in the study protocol, however, there may be additional information that is specific to a site or sponsor that may be included in either a separate agreement or in separate protocol pages. Which of the options below is typically NOT included in a protocol?
+- A comprehensive and detailed list of all the variables (data points) to be collected in the study
+
+### 6.4 Essential documents are required to be collected and maintained before, during and upon completion or termination of the study. It’s important to note who is responsible for maintaining each document. Who is responsible for maintaining Monitoring Visit Reports?
+- The Sponsor
+
+### 6.5 How often should the Investigator’s Brochure (IB) be updated?
+- The IB should be reviewed and updated on an ongoing basis
+
+
+## 7. Monitoring of Clinical Trials by Sponsors
+
+### 7.1 This module describes the monitoring of clinical trials by industry sponsors. During specific site visits, the monitors will have specific expectations. Regulatory documents include all of the following except:
+- Site personnel files
+
+### 7.2 During specific site visits the monitors will have specific expectations. During which site visits can you expect that participant study data will be monitored?
+- Routine monitoring visit.
+
+### 7.3 In Canada, researchers conducting clinical trials that are not subject to The Food and Drug Regulations, Part C, Division 5, are expected to comply with:
+- ICH GCP E6 because it constitutes best practice standards
+
+### 7.4 When does the sponsor-monitor conduct the most detailed review of the study protocol with the site's study staff?
+- Site initiation visit
+
+### 7.5 Which of the following best describes when the majority of case report form (CRF) data are verified against source record information?
+- Routine monitoring visits
+
+
+
