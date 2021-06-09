@@ -1,4 +1,4 @@
-## Sponsor Responsibilities and GCP
+## 1. Sponsor Responsibilities and GCP
 1. What should happen to unused investigational agents when the study is over?
 - Unused investigational agents should be shipped back to the sponsor or to an alternative that the sponsor has designated. According to ICH GCP 5.14.4, the sponsor should maintain a system for the disposition of unused investigational products and for the documentation of this disposition. The investigational agents will be shipped back to the sponsor unless the sponsor authorizes an alternative method of disposition that is in compliance with applicable regulatory requirements.
 
@@ -14,7 +14,7 @@
 5. According to a definition used in ICH GCP, an individual (not a corporation or agency) who both initiates and conducts, alone or with others, a clinical trial, and under whose immediate direction the investigational product is administered to, despensed to, or used by a research participant is a:
 - Sponsor-investigator
 
-## Investigator's Responsibilities and GCP
+## 2. Investigator's Responsibilities and GCP
 
 ### Whar happens to trial documents after the study is completed?
 - Trial documents are stored in compliance with institutional policy. relevant privacy legislation and regulatory requirements.
@@ -56,59 +56,59 @@
 
 
 
-## Managing Investigational (Drug) Products According to GCP Requirements
+## 3. Managing Investigational (Drug) Products According to GCP Requirements
 
-### For the benefit of the sponsor, where should the final information about the dispensing of an investigational product be recorded?
+### 3.1 For the benefit of the sponsor, where should the final information about the dispensing of an investigational product be recorded?
 - Case report form
 
-### According to ICH GCP, the investigator and/or designee is not required to:
+### 3.2 According to ICH GCP, the investigator and/or designee is not required to:
 - Give the participant a diary to help with compliance
 
-### Where are storage requirements for the investigational product usually found?
+### 3.3 Where are storage requirements for the investigational product usually found?
 - In the study protocol
 
-### Where could the information about the use if investigational product be recorded?
+### 3.4 Where could the information about the use if investigational product be recorded?
 - all of the above
 
 
-### Who has the ultimate responsibility for the administration/dispensation an investigational product at the clinical site?
+### 3.5 Who has the ultimate responsibility for the administration/dispensation an investigational product at the clinical site?
 - Qualified Investigator/ Principal investigator
 
-### Which of the following is a critical component of drug accountability?
+### 3.6 Which of the following is a critical component of drug accountability?
 - Drug shipping records
 
-### Which of the following is an important component of drug accountability?
+### 3.7 Which of the following is an important component of drug accountability?
 - Drug shipping and disposition records
 
-### When may a sponsor ship investigational product to a Canadian clnical site?
+### 3.8 When may a sponsor ship investigational product to a Canadian clnical site?
 - After the No Objection Letter is received by the sponsor
 
 
 
-## Informed Consent
+## 4. Informed Consent
 
-### You are reviewing a consent form that will be submitted to the Research Ethics Board (REB) for review. The consent form states that participants will be reimbursed for travel expenses related to study participation upon study completion. Is this statement acceptable?
+### 4.1 You are reviewing a consent form that will be submitted to the Research Ethics Board (REB) for review. The consent form states that participants will be reimbursed for travel expenses related to study participation upon study completion. Is this statement acceptable?
 - This is not acceptable as payment is contingent upon study completion and thus is coercive.
 
-### A 46-year-old man is currently enrolled in a Phase 1 study of a drug for severe diabetic neuropathy. While the study is ongoing, a new drug becomes commercially available that may have equal or greater benefit to the study participant. The investigator should do which of the following?
+### 4.2 A 46-year-old man is currently enrolled in a Phase 1 study of a drug for severe diabetic neuropathy. While the study is ongoing, a new drug becomes commercially available that may have equal or greater benefit to the study participant. The investigator should do which of the following?
 - 	Discuss the pros and cons of both the investigational drug and the commercially available drug and then allow the participant to decide whether to withdraw from the research to take the new drug.
 
-### According to ICH GCP, if there is no intended clinical benefit to the research subjects, how should this be addressed in the informed consent discussion and the written informed consent form and any other written information to be provided to the subjects?
+### 4.3 According to ICH GCP, if there is no intended clinical benefit to the research subjects, how should this be addressed in the informed consent discussion and the written informed consent form and any other written information to be provided to the subjects?
 - The research subject should be made aware that there is not intended benefit.
 
-### A normal healthy volunteer is considering participating in a clinical trial testing a new vaccine for chickenpox. He has left his glasses at home and is unable to read the consent form. According to ICH-GCP who must be involved in obtaining consent in this situation?
+### 4.4 A normal healthy volunteer is considering participating in a clinical trial testing a new vaccine for chickenpox. He has left his glasses at home and is unable to read the consent form. According to ICH-GCP who must be involved in obtaining consent in this situation?
 - An impartial witness.
 
-### A comatose elderly man recently diagnosed with lung cancer is eligible for a clinical trial using a new investigational drug. The potential participant's wife is his legally authorized representative, but she is out of town on a business trip. Which of the following is the most appropriate action to take for the investigator?
+### 4.5 A comatose elderly man recently diagnosed with lung cancer is eligible for a clinical trial using a new investigational drug. The potential participant's wife is his legally authorized representative, but she is out of town on a business trip. Which of the following is the most appropriate action to take for the investigator?
 - Fax the consent form to the legally authorized representative and then wait for her to return to discuss options with her. After she has had the opportunity to speak to the investigator and time to think about the best choice for her husband, she can sign and return the informed consent form if she wants to enrol him in the study.
 
-### The purpose of informed consent is to:
+### 4.6 The purpose of informed consent is to:
 - Protect the research participants.
 
 
-### Which of the following statements in a consent form is an example of exculpatory language?
+### 4.7 Which of the following statements in a consent form is an example of exculpatory language?
 - You must provide blood samples that will be kept in a "bank" for future research. Once you have provided these blood samples, you give up your rights to benefit from commercial development.
 
 
-### A representative from the sponsor has arrived for the first monitoring visit. Upon reviewing the consent form she notes that under access to records the consent states the following ”The study doctor and members of the research team will see health and study records that identify you by name. Other people may need to look at health and study records that identify you by name. These people might include: the Research Ethics Board, Health Canada and/or the Food and Drug Administration (if applicable).” This means:
+### 4.8 A representative from the sponsor has arrived for the first monitoring visit. Upon reviewing the consent form she notes that under access to records the consent states the following ”The study doctor and members of the research team will see health and study records that identify you by name. Other people may need to look at health and study records that identify you by name. These people might include: the Research Ethics Board, Health Canada and/or the Food and Drug Administration (if applicable).” This means:
 - The sponsor representative may look at records without violating confidentiality that do not identify participants by name.
