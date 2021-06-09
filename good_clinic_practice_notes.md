@@ -88,18 +88,18 @@
 ## Informed Consent
 
 ### You are reviewing a consent form that will be submitted to the Research Ethics Board (REB) for review. The consent form states that participants will be reimbursed for travel expenses related to study participation upon study completion. Is this statement acceptable?
-
+- 	This is not acceptable as payment is contingent upon study completion and thus is coercive.
 
 ### A 46-year-old man is currently enrolled in a Phase 1 study of a drug for severe diabetic neuropathy. While the study is ongoing, a new drug becomes commercially available that may have equal or greater benefit to the study participant. The investigator should do which of the following?
-
+- 	Discuss the pros and cons of both the investigational drug and the commercially available drug and then allow the participant to decide whether to withdraw from the research to take the new drug.
 
 ### According to ICH GCP, if there is no intended clinical benefit to the research subjects, how should this be addressed in the informed consent discussion and the written informed consent form and any other written information to be provided to the subjects?
-
+- The research subject should be made aware that there is not intended benefit.
 
 ### A normal healthy volunteer is considering participating in a clinical trial testing a new vaccine for chickenpox. He has left his glasses at home and is unable to read the consent form. According to ICH-GCP who must be involved in obtaining consent in this situation?
-
+- An impartial witness.
 
 ### A comatose elderly man recently diagnosed with lung cancer is eligible for a clinical trial using a new investigational drug. The potential participant's wife is his legally authorized representative, but she is out of town on a business trip. Which of the following is the most appropriate action to take for the investigator?
-
+- 	Fax the consent form to the legally authorized representative and then wait for her to return to discuss options with her. After she has had the opportunity to speak to the investigator and time to think about the best choice for her husband, she can sign and return the informed consent form if she wants to enrol him in the study.
 
 
