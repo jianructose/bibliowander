@@ -179,4 +179,21 @@
 - Routine monitoring visits
 
 
+## 8. Audits and Inspections in Clinical Trials
+
+### 8.1 The overall goal of audits and inspection activities is to:
+- Ensure the protection of human research subjects and data integrity.
+
+### 8.2 Which of the following is not a critical observation in a Health Canada Inspection?
+- SOPs are one week past the effective date.
+
+### 8.3 An Inspection is defined as:
+- The act by a regulatory authority(ies) of conducting an official review of documents, facilities, records, and any other resources related to a clinical trial.
+
+### 8.4 Which of the following is not part of a clinical site inspection?
+- Interview with research participants
+
+### 8.5 For Health Canada, sites are selected for inspections based on the following except for:
+- Number of clinical trials conducted by the sponsor
+
 
